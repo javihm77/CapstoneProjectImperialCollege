@@ -5,4 +5,4 @@ This project analyzes comments from the Guatemalan radio program 'Por Favor No S
 
 This project is part of the [Professional Certificate in Machine Learning and Artificial Intelligence](https://execed-online.imperial.ac.uk/professional-certificate-ml-ai).
 
-<img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38787924/38787924-1692912103476-5d4d01e3065b5.jpg" alt="PNSE" width="200" height="200">
+<img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/38787924/38787924-1692912103476-5d4d01e3065b5.jpg" alt="PNSE" width="500" height="500">
